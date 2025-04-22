@@ -1,6 +1,6 @@
 ## Superstore Sales Dashboard Power BI Mini Project
 Overview
-This Power BI dashboard analyzes historical sales data from a U.S. superstore to identify trends, high-performing products, regional performance, and customer segments. The project demonstrates core skills in data modeling, visualization, and storytelling\'97ideal for hiring managers evaluating data analyst candidates.
+This Power BI dashboard analyzes historical sales data from a U.S. superstore to identify trends, high-performing products, regional performance, and customer segments. The project demonstrates core skills in data modeling, visualization, and storytelling.
 
 ## Dataset
 - Source: Superstore Dataset (public)

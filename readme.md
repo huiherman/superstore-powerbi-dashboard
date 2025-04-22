@@ -7,6 +7,9 @@ This Power BI dashboard analyzes historical sales data from a U.S. superstore to
 - Format: CSV (imported via Google Sheets)
 - Fields: Order Date, Sales, Category, Region, Segment, Product Name
 
+## Download Presentation
+[Click here to download the PowerPoint slides](https://github.com/huiherman/superstore-powerbi-dashboard/raw/main/Superstore_Sales_Dashboard_Presentation%20v1.pptx)
+
 ## Key Insights
 
 ### 1. Total Sales Performance
